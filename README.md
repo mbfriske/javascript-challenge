@@ -1,5 +1,4 @@
 # javascript-challenge
-###### Background
 -----------------------
 
 ![UFO Sightings](/images/ufo_sightings.png)
